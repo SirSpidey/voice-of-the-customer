@@ -227,10 +227,10 @@ To troubleshoot your Bluemix application, use the logs. To see the logs, run:
 The following links provide more information about the Natural Language Classifier, Cloudant, and Alchemy Language services.
 
 ### Natural Language Classifier service
-  * [API documentation](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/nl-classifier/): Get an in-depth knowledge of the Natural Language Classifier service
-  * [API reference](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/natural-language-classifier/api/v1/): SDK code examples and reference
+  * [API documentation](http://www.ibm.com/watson/developercloud/doc/natural-language-classifier/index.html): Get an in-depth knowledge of the Natural Language Classifier service
+  * [API reference](http://www.ibm.com/watson/developercloud/natural-language-classifier/api/v1/): SDK code examples and reference
   * [API Explorer](https://watson-api-explorer.mybluemix.net/apis/natural-language-classifier-v1): Try out the API
-  * [Creating your own classifier](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/nl-classifier/get_start.shtml): How to use the API to create and use your own classifier
+  * [Creating your own classifier](http://www.ibm.com/watson/developercloud/doc/natural-language-classifier/getting-started.html): How to use the API to create and use your own classifier
 
 ### Cloudant service
   * [API documentation](https://console.ng.bluemix.net/docs/services/Cloudant/index.html#Cloudant): Get an in-depth understanding of the Cloudant services
@@ -283,6 +283,6 @@ This data is collected from the `VCAP_APPLICATION` environment variable in IBM B
 [sign_up]: https://console.ng.bluemix.net/registration/
 [get-alchemyapi-key]: https://console.ng.bluemix.net/catalog/services/alchemyapi/
 
-[natural-language-classifier]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/nl-classifier.html
-[alchemy-language]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/alchemy-language.html
+[natural-language-classifier]: http://www.ibm.com/watson/developercloud/nl-classifier.html
+[alchemy-language]: http://www.ibm.com/watson/developercloud/alchemy-language.html
 [cloudantNoSQLDB]: https://console.ng.bluemix.net/docs/services/Cloudant/index.html#Cloudant
